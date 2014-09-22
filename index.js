@@ -1,1 +1,3 @@
-ehehheh
+'use strict';
+
+
